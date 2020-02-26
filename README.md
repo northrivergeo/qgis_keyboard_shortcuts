@@ -22,6 +22,10 @@
 | <kbd>CTRL</kbd> + <kbd>p</kbd>                    | New Print Layout   |
 | <kbd>CTRL</kbd> + <kbd>q</kbd>                    | Close QGIS         |
 
-| Shortcut                                          | Select Actions     |
-|:--------------------------------------------------|:-------------------|
-| <kbd>CTRL</kbd> + <kbd>n</kbd>                    | New Project        |
+| Shortcut                                          | Select Actions                 |
+|:--------------------------------------------------|:-------------------------------|
+| <kbd>F3</kbd>                                     |Select Features by Value        |  
+| <kbd>CTRL</kbd>+<kbd>F3</kbd>                     |Select Features by Expression   |  
+| <kbd>CTRL</kbd>+<kbd>a</kbd>                      |Select All Features             |  
+| <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>a</kbd>     |DeSelect All Features           |  
+
