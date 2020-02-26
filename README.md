@@ -22,5 +22,5 @@
 | <kbd>CTRL</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd> | Save Project As..  |
 | <kbd>CTRL</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> | Project Properties |
 | <kbd>CTRL</kbd> + <kbd>p</kbd>                    | New Print Layout   |
-| <kbd>CTRL</kbd> + <kbd>q</kbd>                    | Close QGISct       |
+| <kbd>CTRL</kbd> + <kbd>q</kbd>                    | Close QGIS         |
 
