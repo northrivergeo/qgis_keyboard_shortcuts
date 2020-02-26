@@ -2,14 +2,14 @@
 
 | Shortcut                                         | Action                    |
 |:-------------------------------------------------|:--------------------------|
-| <kbd>F1</kbd>                                    |                           |
+| <kbd>F1</kbd>                                    |Help                       |
 | <kbd>F2</kbd>                                    |                           |
-| <kbd>F3</kbd>                                    |                           |
+| <kbd>F3</kbd>                                    |Select Features by Value   |
 | <kbd>F4</kbd>                                    |                           |
-| <kbd>F5</kbd>                                    |                           |
-| <kbd>F6</kbd>                                    |                           |
-| <kbd>F7</kbd>                                    |                           |
+| <kbd>F5</kbd>                                    |Refresh                    |
+| <kbd>F6</kbd>                                    |Open Attribute Table       |
+| <kbd>F7</kbd>                                    |Layer Styling              |
 | <kbd>F8</kbd>                                    |                           |
 | <kbd>F9</kbd>                                    |                           |
 | <kbd>F10</kbd>                                   |                           |
-| <kbd>F11</kbd>                                   |                           |
+| <kbd>F11</kbd>                                   |Full Screen Mode           |
