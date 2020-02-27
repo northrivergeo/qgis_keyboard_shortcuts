@@ -29,3 +29,19 @@
 | <kbd>CTRL</kbd>+<kbd>a</kbd>                      |Select All Features             |  
 | <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>a</kbd>     |DeSelect All Features           |  
 
+| Shortcut                                          | Layer Actions                  |
+|:--------------------------------------------------|:-------------------------------|
+| <kbd>CTRL</kbd>+<kbd>l</kbd>                      |Open Data Source Manager        |	
+| <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>n</kbd>     |New Geopackage Layer            |	
+| <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>v</kbd>     |Add Vector Layer                |	
+| <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>r</kbd>     |Add Raster Layer                |	
+| <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>r</kbd>     |Add Raster Layer                |	
+| <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>t</kbd>     |Add Delimted Text               |	
+| <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>d</kbd>     |Add PostGIS Layer               |	
+| <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>l</kbd>     |Add Spatialite Layer            |	
+| <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>2</kbd>     |Add DB2 Layer                   |	
+| <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>2</kbd>     |Add WMS/WMTS Layer              |	
+| <kbd>F6</kbd>                                     |Open Attribute Table            |	
+| <kbd>CTRL</kbd>+<kbd>d</kbd>                      |Remove Layer                    |	
+| <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>c</kbd>     |Set CRS of Layer(s)             |	
+| <kbd>CTRL</kbd>+<kbd>f</kbd>                      |Remove Layer                    |	
